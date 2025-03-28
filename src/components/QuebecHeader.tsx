@@ -8,6 +8,7 @@ const QuebecHeader = () => {
         <div className="flex items-center">
           <FleurDeLis className="h-10 w-10 text-quebec-blue" />
           <h1 className="ml-3 text-3xl font-bold text-quebec-blue">Québec</h1>
+          <span className="ml-2 text-sm text-gray-500 self-end mb-1">Interactive Region Map</span>
         </div>
       </div>
     </header>
